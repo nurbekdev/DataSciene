@@ -1,3 +1,3 @@
 # DataSciene
 
-Mohirdevdagi DataSciene va Su'niy intellekt kursidan o'rganganlarimni joylab boirish uchun
+Mohirdevdagi DataSciene va Su'niy intellekt kursidan o'rganganlarim va berilgan topshiriqlarni joylab boirish uchun
